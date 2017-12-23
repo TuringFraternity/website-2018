@@ -1,2 +1,2 @@
-# website
+# Website
 Official website of TuringF
