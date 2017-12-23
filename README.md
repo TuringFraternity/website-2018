@@ -1,2 +1,2 @@
-# website-2018
+# website
 Official website of TuringF
